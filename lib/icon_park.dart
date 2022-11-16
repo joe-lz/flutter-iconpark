@@ -1487,6 +1487,7 @@ class IconPark extends StatelessWidget {
   static const String loading_three = 'loading_three.svg';
   static const String loading_two = 'loading_two.svg';
   static const String local = 'local.svg';
+  static const String local_solid = 'local_solid.svg';
   static const String local_pin = 'local_pin.svg';
   static const String local_two = 'local_two.svg';
   static const String lock = 'lock.svg';
