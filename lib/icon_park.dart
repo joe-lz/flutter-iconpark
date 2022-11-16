@@ -591,6 +591,7 @@ class IconPark extends StatelessWidget {
   static const String comment = 'comment.svg';
   static const String comment_one = 'comment_one.svg';
   static const String comments = 'comments.svg';
+  static const String comments_solid = 'comments_solid.svg';
   static const String commodity = 'commodity.svg';
   static const String communication = 'communication.svg';
   static const String commuter_bag = 'commuter_bag.svg';
@@ -1285,6 +1286,7 @@ class IconPark extends StatelessWidget {
   static const String holding_hands = 'holding_hands.svg';
   static const String holy_sword = 'holy_sword.svg';
   static const String home = 'home.svg';
+  static const String home_solid = 'home_solid.svg';
   static const String home_two = 'home_two.svg';
   static const String homestay = 'homestay.svg';
   static const String honey = 'honey.svg';
@@ -1520,6 +1522,7 @@ class IconPark extends StatelessWidget {
   static const String manual_gear = 'manual_gear.svg';
   static const String many_to_many = 'many_to_many.svg';
   static const String map_distance = 'map_distance.svg';
+  static const String map_distance_solid = 'map_distance_solid.svg';
   static const String map_draw = 'map_draw.svg';
   static const String map_road = 'map_road.svg';
   static const String map_road_two = 'map_road_two.svg';
@@ -2066,6 +2069,7 @@ class IconPark extends StatelessWidget {
   static const String sd_card = 'sd_card.svg';
   static const String seal = 'seal.svg';
   static const String search = 'search.svg';
+  static const String search_solid = 'search_solid.svg';
   static const String security = 'security.svg';
   static const String security_stall = 'security_stall.svg';
   static const String selected = 'selected.svg';
@@ -2148,6 +2152,8 @@ class IconPark extends StatelessWidget {
   static const String slightly_frowning_face_whit_open_mouth =
       'slightly_frowning_face_whit_open_mouth.svg';
   static const String slightly_smiling_face = 'slightly_smiling_face.svg';
+  static const String slightly_smiling_face_solid =
+      'slightly_smiling_face_solid.svg';
   static const String slippers = 'slippers.svg';
   static const String slippers_one = 'slippers_one.svg';
   static const String sly_face_whit_smile = 'sly_face_whit_smile.svg';
