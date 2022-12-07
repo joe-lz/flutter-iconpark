@@ -2363,6 +2363,7 @@ class IconPark extends StatelessWidget {
   static const String top_bar = 'top_bar.svg';
   static const String topbuzz = 'topbuzz.svg';
   static const String topic = 'topic.svg';
+  static const String topic_solid = 'topic_solid.svg';
   static const String topic_discussion = 'topic_discussion.svg';
   static const String torch = 'torch.svg';
   static const String tour_bus = 'tour_bus.svg';
