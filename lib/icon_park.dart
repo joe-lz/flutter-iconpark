@@ -590,6 +590,7 @@ class IconPark extends StatelessWidget {
   static const String come = 'come.svg';
   static const String command = 'command.svg';
   static const String comment = 'comment.svg';
+  static const String comment_solid = 'comment_solid.svg';
   static const String comment_one = 'comment_one.svg';
   static const String comments = 'comments.svg';
   static const String comments_solid = 'comments_solid.svg';
