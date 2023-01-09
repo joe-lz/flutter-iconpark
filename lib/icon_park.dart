@@ -441,6 +441,7 @@ class IconPark extends StatelessWidget {
   static const String calendar_thirty_two = 'calendar_thirty_two.svg';
   static const String calendar_three = 'calendar_three.svg';
   static const String camera = 'camera.svg';
+  static const String camera_solid = 'camera_solid.svg';
   static const String camera_five = 'camera_five.svg';
   static const String camera_four = 'camera_four.svg';
   static const String camera_one = 'camera_one.svg';
@@ -2089,8 +2090,10 @@ class IconPark extends StatelessWidget {
   static const String setting = 'setting.svg';
   static const String setting_config = 'setting_config.svg';
   static const String setting_one = 'setting_one.svg';
+  static const String setting_one_solid = 'setting_one_solid.svg';
   static const String setting_three = 'setting_three.svg';
   static const String setting_two = 'setting_two.svg';
+  static const String setting_two_solid = 'setting_two_solid.svg';
   static const String seven_key = 'seven_key.svg';
   static const String shade = 'shade.svg';
   static const String shake = 'shake.svg';
